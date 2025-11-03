@@ -1,0 +1,9 @@
+{
+  "name": "Clucki Chickens",
+  "symbol": "CLUKI",
+  "description": "The only Chicken on Solana",
+  "image": "https://yourdomain.com/logo.png",
+  "attributes": [
+    { "trait_type": "type", "value": "utility token" }
+  ]
+}
